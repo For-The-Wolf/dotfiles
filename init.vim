@@ -1,11 +1,11 @@
 
 call plug#begin()
-	Plug 'neoclide/coc.nvim', { 'branch': 'release' }
-	Plug 'clangd/coc-clangd'
+    Plug 'neoclide/coc.nvim', { 'branch': 'release' }
+    Plug 'clangd/coc-clangd'
     Plug 'iamcco/markdown-preview.nvim'
-	Plug 'maxmellon/vim-jsx-pretty'
-	Plug 'sheerun/vim-polyglot'
-	Plug 'scrooloose/nerdtree'
+    Plug 'maxmellon/vim-jsx-pretty'
+    Plug 'sheerun/vim-polyglot'
+    Plug 'scrooloose/nerdtree'
     Plug 'tpope/vim-surround'
     Plug 'tpope/vim-commentary'
     Plug 'junegunn/rainbow_parentheses.vim'
