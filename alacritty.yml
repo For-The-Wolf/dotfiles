@@ -1,0 +1,28 @@
+# Window settings
+window:
+   dimensions:
+      columns: 120 
+      lines: 30
+   padding:
+      x: 15
+      y: 15 
+
+# Font settings
+
+font:
+   size: 13
+   offset:
+      y: 2 
+   normal:
+      family: Fira Code
+      style: semibold
+   bold:
+      family: Fira Code
+      style: bold
+   italic:
+      family: Fira Code
+      style: italic
+
+import: 
+   - ~/.alacritty-colorscheme/themes/one_dark.yaml
+
